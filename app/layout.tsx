@@ -15,6 +15,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Diagramas Oportune",
   description: "Visualizador de diagramas para diversos tipos de modelos",
+  icons: "icon.png",
 };
 
 export default function RootLayout({
