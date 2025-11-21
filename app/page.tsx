@@ -108,7 +108,7 @@ export default function DiagramViewer() {
         direction="bottom"
         className="fixed bottom-4 left-1/2 -translate-x-1/2"
       >
-        <DockIcon>
+        {/* <DockIcon> */}
           {/* <Link
             href={"https://www.linkedin.com/in/gabriel-pimentel-zxn111/"}
             target="_blank"
