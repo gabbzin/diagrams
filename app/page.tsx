@@ -109,19 +109,19 @@ export default function DiagramViewer() {
         className="fixed bottom-4 left-1/2 -translate-x-1/2"
       >
         <DockIcon>
-          <Link
+          {/* <Link
             href={"https://www.linkedin.com/in/gabriel-pimentel-zxn111/"}
             target="_blank"
           >
             <Linkedin />
           </Link>
-        </DockIcon>
+        </DockIcon> */}
         <DockIcon>
           <Link href={"https://github.com/PedrFelip/oportune"} target="_blank">
             <GithubIcon />
           </Link>
         </DockIcon>
-        <DockIcon>
+        {/* <DockIcon>
           <Link href={"https://www.linkedin.com/in/pedrfelip/"} target="_blank">
             <Linkedin />
           </Link>
@@ -133,7 +133,7 @@ export default function DiagramViewer() {
           >
             <Linkedin />
           </Link>
-        </DockIcon>
+        </DockIcon> */}
       </Dock>
     </div>
   );
